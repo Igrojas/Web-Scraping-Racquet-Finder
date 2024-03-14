@@ -1,1 +1,3 @@
 # Web-Scraping-Racquet-Finder
+
+Utilizaré técnicas de web scraping en la página web http://www.racquetfinder.com/ para recopilar datos detallados sobre raquetas de tenis, incluyendo características como el nombre de la raqueta, el peso, el tamaño de la cabeza y el material del marco. Luego, aplicaré métodos no supervisados, como el análisis de conglomerados, para explorar cómo se agrupan las raquetas de tenis según estas características. Este análisis nos proporcionará una comprensión más profunda de las tendencias y patrones en el mercado de raquetas de tenis, lo que puede ser útil para la toma de decisiones en el diseño y la comercialización de productos.
